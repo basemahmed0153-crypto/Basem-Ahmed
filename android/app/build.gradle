@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.alculator"
+    namespace = "com.example.tore"
     compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.alculator"
+        applicationId = "com.example.tore"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
